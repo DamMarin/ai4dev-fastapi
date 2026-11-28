@@ -1,3 +1,9 @@
+"""
+Basic Dependencies
+
+fastapi dev ch3/01_basic_depends.py
+"""
+
 from fastapi import FastAPI, Depends
 
 app = FastAPI()
